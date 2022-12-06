@@ -1,5 +1,5 @@
  
-# Chuwi Corebook XL Hackintosh OpenCore macOS Ventura
+# Chuwi Corebook X Hackintosh OpenCore macOS Ventura
 
 Untested EFI to run macOS Ventura on the Chuwi Corebook X
 
